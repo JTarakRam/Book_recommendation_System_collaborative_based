@@ -26,7 +26,7 @@ Collaborative filtering is classified into two types: <br>
 + User-ID - the Id of the particular Reader<br>
 + ISBN - International Standard Book Number, is a unique number that is assigned to every published book<br>
 + Book-rating - Rating of particular book that has been ratede by the user.<br>
-**Understand the Dataset - 3**<br><br>
+**Understand the Dataset - 3**<br>
 + User-ID - Id of the particular user.<br>
 + Location - the location of the user(reader of the book)<br>
 + Age - Age of the user (reader of the book)<br>
